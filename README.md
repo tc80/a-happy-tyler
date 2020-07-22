@@ -1,2 +1,2 @@
 # A Happy Tyler
-Be like Tyler. Be happy.
+Tyler is happy. Be like Tyler.
