@@ -1,2 +1,2 @@
-# A Happy Tyler (v1.0.6)
+# A Happy Tyler (v1.0.7)
 Tyler is happy. Be like Tyler.
