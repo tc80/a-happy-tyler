@@ -32,6 +32,7 @@ export const AMAZING_PEOPLE = [
   "Misha Y.",
   "Watson L.",
   "Kari L.",
+  "Lucas P.",
   "Greg B.",
   "Clement J.",
   "Jonas O.",
